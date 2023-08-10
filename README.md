@@ -5,7 +5,7 @@ Welcome to Stock Management! This project is an application for processing finan
 
 
 ## Video Walkthrough of the Project
-[Embed or link any video walkthroughs that demonstrate how to use your application.]
+[Video link that demonstrate how to use your application.](https://drive.google.com/drive/folders/1hTUtimYFDFElNjy0k0Jny0CftlZN5sLg?usp=sharing)
 
 ## Features
 - Feature 1: JSON files can be used to store data in a database.
